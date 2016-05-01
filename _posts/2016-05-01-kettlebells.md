@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T14:47:25.588Z'
-dateModified: '2016-05-01T14:46:53.975Z'
+datePublished: '2016-05-01T14:52:25.211Z'
+dateModified: '2016-05-01T14:52:01.011Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-kettlebells.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-01-kettlebells.md
-published: true
+starred: true
 url: kettlebells/index.html
 _type: Article
 
