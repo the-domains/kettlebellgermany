@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kettlebellgermany]]></title>
+        <description><![CDATA[kettlebellgermany]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 14:47:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kettlebells]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20cc0284-d655-47e3-9fb1-c5bca6b82398.png">]]></description>
+            <link>undefinedkettlebells/index.html</link>
+            <guid isPermaLink="false">42e5520f-d9c5-4b33-b8ff-ffb1046fc6ee</guid>
+            <pubDate>Sun, 01 May 2016 14:47:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
