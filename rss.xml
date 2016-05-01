@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kettlebellgermany]]></title>
         <description><![CDATA[kettlebellgermany]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kettlebellgermany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 14:47:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 14:53:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kettlebellgermany/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Kettlebells]]></title>
+            <title><![CDATA[KettlebellGermany]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20cc0284-d655-47e3-9fb1-c5bca6b82398.png">]]></description>
-            <link>undefinedkettlebells/index.html</link>
+            <link>https://thegrid.ai/kettlebellgermany/kettlebells/index.html</link>
             <guid isPermaLink="false">42e5520f-d9c5-4b33-b8ff-ffb1046fc6ee</guid>
-            <pubDate>Sun, 01 May 2016 14:47:25 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 14:52:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
