@@ -1,0 +1,28 @@
+name: kettlebellgermany
+favicon: null
+layout_spectrum: 0.06543958140537143
+typography_spectrum: 0.8090057151857764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.11632959055714309
+  lightness: 0.4315831861458719
+  saturation: 0.412011107429862
+  rhythmicContrast: 0.5249546247068793
+purpose: []
