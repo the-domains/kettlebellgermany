@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-01T14:52:25.211Z'
-dateModified: '2016-05-01T14:52:01.011Z'
-title: ''
-author: []
+description: Brucker Strasse 49 82205 Gilching
+datePublished: '2016-05-02T09:55:26.249Z'
+dateModified: '2016-05-02T09:55:11.337Z'
+title: KettlebellGermany.de
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-01-kettlebells.md
 published: true
 authors: []
@@ -22,4 +24,12 @@ url: kettlebells/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20cc0284-d655-47e3-9fb1-c5bca6b82398.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/facfc5eda7dc134505f9c2ebdaef055849c7cbab.png)
+
+Brucker Strasse 49 82205 Gilching
+
+Tel.: 0163/8413509
+
+[florian@kettlebellgermany.de][0]
+
+[0]: mailto://florian@kettlebellgermany.de
