@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kettlebellgermany]]></title>
-        <description><![CDATA[kettlebellgermany]]></description>
+        <title><![CDATA[Kettlebell Training in Gilching]]></title>
+        <description><![CDATA[Kettlebell Training in Gilching]]></description>
         <link>https://thegrid.ai/kettlebellgermany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 09:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 11:25:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kettlebellgermany/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KettlebellGermany.de]]></title>
-            <description><![CDATA[<article><h1>KettlebellGermany.de</h1><p>Brucker Strasse 49 82205 Gilching</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/facfc5eda7dc134505f9c2ebdaef055849c7cbab.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KettlebellGermany.de</h1><p>Brucker Strasse 49 82205 Gilching</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6ea89eb8c72a1c6b1ed0b8b6ae797e82a3cd5a6.png"></article>]]></description>
             <link>https://thegrid.ai/kettlebellgermany/kettlebells/index.html</link>
             <guid isPermaLink="false">42e5520f-d9c5-4b33-b8ff-ffb1046fc6ee</guid>
             <pubDate>Mon, 02 May 2016 09:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/kettlebellgermany/2e394e8b-c9a0-46e9-b46e-9071d0ee6bb5/index.html</link>
+            <guid isPermaLink="false">2e394e8b-c9a0-46e9-b46e-9071d0ee6bb5</guid>
+            <pubDate>Wed, 11 May 2016 11:24:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kettlebell Anfängerkurs]]></title>
