@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: kettlebellgermany
+name: KettlebellGermany.de
 cta:
   domain: null
   bucket: null
@@ -30,4 +30,5 @@ navigation:
     type: content
 favicon: null
 title: Kettlebell Training in Gilching
+description: '"artgerechtes" Training im Fünf-Seen-Land'
 purpose: []
