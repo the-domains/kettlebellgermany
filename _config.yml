@@ -28,6 +28,9 @@ navigation:
   - name: Kettlebell Training in Gilching bei München
     id: 42e5520f-d9c5-4b33-b8ff-ffb1046fc6ee
     type: content
+  - name: Bewegungssysteme
+    id: 2e394e8b-c9a0-46e9-b46e-9071d0ee6bb5
+    type: content
 favicon: null
 title: Kettlebell Training in Gilching
 description: '"artgerechtes" Training im Fünf-Seen-Land'
