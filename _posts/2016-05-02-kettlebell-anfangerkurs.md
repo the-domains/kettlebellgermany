@@ -1,36 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ' '
-datePublished: '2016-05-02T09:28:15.683Z'
-dateModified: '2016-05-02T09:27:49.587Z'
-title: Kettlebell Anfängerkurs
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-09-01T08:04:57.429Z'
 sourcePath: _posts/2016-05-02-kettlebell-anfangerkurs.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-01T08:04:56.580Z'
+title: Dein RKC Kettlebell Anfänger Kurs
+publisher: {}
+description: >-
+  Die Kettlebell ist ein altgedientes Trainingsgerät, das gerade seine
+  Renaissance erlebt -und das mit gutem Grund:
+inLanguage: null
+inNav: true
+via: {}
+starred: true
 url: kettlebell-anfangerkurs/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/776f7d54-1eb4-45f0-8ce4-1a89222eddc4.png)
-
-# Kettlebell Anfängerkurs
-
-****
-
-**Hast DU schon von Kettlebells gehört?**
+# Dein RKC Kettlebell Anfänger Kurs
 
 Die Kettlebell ist ein altgedientes Trainingsgerät, das gerade seine Renaissance erlebt -und das mit gutem Grund:
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2326a9d44f2ba7ac5836a5a4c8d7f67aa9853ebb.png)
+
+**Hast DU schon von Kettlebells gehört?**
 
 * Kettlebells funktionieren - Leistungsfähigkeit in allen Lebenslagen!
 * Kettlebells sind praktisch - Ganzkörpertraining praktisch überall!
@@ -47,12 +42,11 @@ Körperliche Fitness ist kein Zufall - aber auch keine Zauberei!
 * Lerne die Übungen richtig auszuführen.
 * Starte auf Deinem Niveau (besser wirst Du automatisch!).
 * Trainiere regelmäßig.
-* Steigere langsam - aber stetig.  
-  
+* Steigere langsam - aber stetig.
 
 **Mit RKC Hardstyle Kettlebell Training kannst Du:**
 
-√  Deinen Körper formen:  
+√ Deinen Körper formen:  
 Körperfett abbauen, Muskeln straffen und/oder aufbauen.
 
 √ Für Deine Gesundheit vorsorgen:  
@@ -80,7 +74,7 @@ Wer ihre Wirkung erleben will muss:
 Dein erster Schritt auf diesem Weg ist Die Anmeldung bei unserem Anfängerkurs.
 
 Bitte warte nicht zu lange! Wir legen Wert auf ein optimales Lernumfeld, darum sind die Plätze limitiert - wer zu erst kommt, schwingt zuerst.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a567fdca-9835-4cee-abc3-8766722c6335.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b297e58a7d89d47325b75010d2a146445decf2be.jpg)
 
 RKC Team Leader Florian Kiendl bei der Arbeit
 
@@ -116,12 +110,12 @@ Dienstags und Donnerstags
 
 3\. Erlernen der sechs fundamentalen RKC Grundübungen:
 
--    Hardstyle Kettlebell Swing   
--   Turkish Get Up  
--  Clean  
--   Press  
--  Squat (Kniebeuge, und zwar wie man sie richtig macht)  
--  Snatch
+- Hardstyle Kettlebell Swing   
+- Turkish Get Up  
+- Clean  
+- Press  
+- Squat (Kniebeuge, und zwar wie man sie richtig macht)  
+- Snatch
 
 4\. Kettlebell Kaufberatung
 
@@ -156,12 +150,9 @@ Turkish Get Up - die Integrationsübung
 **Brucker Strasse 49**
 
 **Tel.: 0163-8413509**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/843a7918733cdbc34e95928a1894e65de533e020.png)
 
-**[][1][][2]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/251936da-3292-4e45-86f4-dd10d598aa7c.png)
-
-[\> Anfahrt und Kontakt <][2]
+[\> Anfahrt und Kontakt <][1]
 
 [0]: http://kettlebellgermany.de/anfaengerkurs.html
-[1]: http://kettlebellgermany.de/reservierung-anfaengerkurs.html
-[2]: http://kettlebellgermany.de/kontakt.html
+[1]: http://kettlebellgermany.de/kontakt.html
