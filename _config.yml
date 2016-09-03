@@ -1,20 +1,4 @@
-name: kettlebellgermany
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.8090057151857764
-title: Kettlebell Training in Gilching
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4315831861458719
   saturation: 0.412011107429862
   rhythmicContrast: 0.5249546247068793
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: kettlebellgermany
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Kettlebell Training in Gilching bei München
+    id: 42e5520f-d9c5-4b33-b8ff-ffb1046fc6ee
+    type: content
+favicon: null
+title: Kettlebell Training in Gilching
 purpose: []
